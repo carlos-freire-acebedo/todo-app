@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "práctica todo-app",
+  "main": "",
+  "dependencies": {
+    "lit-element": "^2.5.1",
+    "lit-html": "^2.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-freire-acebedo/todo-app.git"
+  },
+  "author": "Carlos Freire Acebedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlos-freire-acebedo/todo-app/issues"
+  },
+  "homepage": "https://github.com/carlos-freire-acebedo/todo-app#readme"
+}
